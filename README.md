@@ -2,4 +2,4 @@
 
 Thildes git and GitHub course repo for Team 2.
 
-Lets collect some recipies!
+Let's collect some recipies!
