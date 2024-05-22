@@ -1,0 +1,8 @@
+Ingredients for chocolate chip cookies:
+- cookies
+- chocolate chips
+
+Recipe:
+- Add ingredients together in a bowl.
+- Say "reparo!".
+- Eat and enjoy.
