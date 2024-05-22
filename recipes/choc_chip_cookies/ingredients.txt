@@ -1,3 +1,5 @@
 Ingredients:
-- cookies
+- eggs
+- milk
+- flour
 - chocolate chips
