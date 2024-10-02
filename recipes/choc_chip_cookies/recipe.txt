@@ -1,4 +1,0 @@
-Recipe:
-- Add ingredients together in a bowl.
-- Say "reparo!".
-- Eat and enjoy.
